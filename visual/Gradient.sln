@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Gradient", "Gradient.vcxproj", "{5AED1FF1-B6ED-4A61-9225-23EF85EE19FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5AED1FF1-B6ED-4A61-9225-23EF85EE19FA}.Debug|x64.ActiveCfg = Debug|x64
+		{5AED1FF1-B6ED-4A61-9225-23EF85EE19FA}.Debug|x64.Build.0 = Debug|x64
+		{5AED1FF1-B6ED-4A61-9225-23EF85EE19FA}.Release|x64.ActiveCfg = Release|x64
+		{5AED1FF1-B6ED-4A61-9225-23EF85EE19FA}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D7C274F-6F92-45FA-9769-55D6EEA7375C}
+	EndGlobalSection
+EndGlobal
