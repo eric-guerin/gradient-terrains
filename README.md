@@ -9,7 +9,8 @@ This repository gathers a minimal setup for processing a terrain authored by its
 
 Simply open the solution using Visual Studio 2019 in the visual subdirectory, build and run.
 
-### Linux - TODO
+### Linux
+See linux/README.md
 
 ## Usage
 
