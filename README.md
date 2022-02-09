@@ -24,6 +24,7 @@ The result is put in the result subdirectory using the defaut name results.pgm.
 ## Paper
 
 If you use this code, please cite the paper it is drawn from:
+<pre>
   @article {guerin2022,
       author = {Eric Guérin and Adrien Peytavie and Simon Masnou and Julie Digne and Basile Sauvage and James Gain and Eric Galin},
       title = {Gradient Terrain Authoring},
@@ -33,6 +34,7 @@ If you use this code, please cite the paper it is drawn from:
       number = {2},
       year = {2022},
   }
+</pre>
 
 ## Video
 
