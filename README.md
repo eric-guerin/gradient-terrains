@@ -21,3 +21,19 @@ the altitude constraint (only where Dirichlet conditions have been placed) and t
 
 The result is put in the result subdirectory using the defaut name results.pgm.
 
+## Paper
+
+If you use this code, please cite the paper it is drawn from:
+  @article {guerin2022,
+      author = {Eric Guérin and Adrien Peytavie and Simon Masnou and Julie Digne and Basile Sauvage and James Gain and Eric Galin},
+      title = {Gradient Terrain Authoring},
+      journal = {Computer Graphics Forum 
+                 (proceedings of Eurographics 2022)},
+      volume = {41},
+      number = {2},
+      year = {2022},
+  }
+
+## Video
+
+[![Gradient Terrain Authoring Video](http://img.youtube.com/vi/tuXs71n2C9I/0.jpg)](http://www.youtube.com/watch?v=tuXs71n2C9I "Gradient Terrain Authoring")
