@@ -1,13 +1,13 @@
 # Gradient Terrain Authoring
 Code source of the paper "Gradient Terrain Authoring" - EG 2022
 
-This repository gathers a minimal setup for processing a terrain authored by its gradient and Dirichlet constraints. It is written in C++ and has a minimal dependancy setup: OpenGL and GLFW. The diffusion process is performed in a Compute Shader program. 
+This repository gathers a minimal setup for processing a terrain authored by its gradient and Dirichlet constraints. It is written in C++ and has a minimal dependancy setup: OpenGL and GLFW. The diffusion process is performed in a Compute Shader program. An example is given that reproduces the scene from the teaser (a canyon).
 
 ## Build
 
 ### Windows
 
-Simply open the solution using Visual Studio 2019 in the visual subdirectory, build and run.
+Simply open the solution using Visual Studio 2019 in the visual subdirectory, build and run. On Visual studio 2022, just accept the update, build, and run.
 
 ### Linux
 See linux/README.md
@@ -19,7 +19,7 @@ the altitude constraint (only where Dirichlet conditions have been placed) and t
 
 ## Output
 
-The result is put in the result subdirectory using the defaut name result.pgm.
+The result is put in the results subdirectory using the defaut name result.pgm. Note that this file is already present in the repository, you will have to delete it before execution to be sure the program has correctly been executed.
 
 ## Paper
 
