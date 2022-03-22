@@ -7,7 +7,7 @@ This repository gathers a minimal setup for processing a terrain authored by its
 
 ### Windows
 
-Simply open the solution using Visual Studio 2019 in the visual subdirectory, build and run. On Visual studio 2022, just accept the update, build, and run.
+You may have to install the C++ development target installed in Visual Studio if it's not already done. Simply open the solution using Visual Studio 2019 in the visual subdirectory, build and run. On Visual studio 2022, just accept the update, build, and run.
 
 ### Linux
 See linux/README.md
