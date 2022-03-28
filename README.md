@@ -1,5 +1,5 @@
 # Gradient Terrain Authoring
-Code source of the paper "Gradient Terrain Authoring" - EG 2022
+Code source of the paper "Gradient Terrain Authoring" - EG 2022 - [pdf](https://hal.archives-ouvertes.fr/hal-03577171/document)
 
 This repository gathers a minimal setup for processing a terrain authored by its gradient and Dirichlet constraints. It is written in C++ and has a minimal dependancy setup: OpenGL and GLFW. The diffusion process is performed in a Compute Shader program. An example is given that reproduces the scene from the teaser (a canyon).
 
